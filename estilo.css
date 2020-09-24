@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+
+.corpo-geral { 
+    color: #21022d;
+    background-color: #e2d8e7;
+    margin: 24px;
+    padding: 16px;
+}
+
+#topo-da-pagina {  
+    color: white;
+    background-color: #21022d;
+    text-align: center;
+    padding: 8px;
+}
+
+.vitaminas {
+    margin-top: 32px;
+    margin-left: 64px;
+}
+
+.imagens {
+    width: 150px;
+    height: 150px;
+}
+
+
+#sem-lactose{
+    margin-top: 64px;
+    text-align: center;
+}
+
+IMG.displayed {
+    display: block;
+    margin-top: 32px;
+    width: 600px;
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
